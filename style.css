@@ -102,17 +102,12 @@ button:hover{
   }
 
   .img-logo {
-    /* width: 70%; */
-    /* position: static; */
     max-width: 95%;
-    /* margin-left: 10px; */
-    /* margin: 5% auto; */
     display: block;
     margin: auto;
   }
 
   h1 {
-    /* max-width: 10%; */
     font-size: 50px;
     margin-left: -80px;
     margin-top: -70px;
